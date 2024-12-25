@@ -29,7 +29,7 @@
 
 8. Successful - Verify on GitHub
    
-## Now working with the cloned repository and updating the files on Github momentary
+## Now working with the cloned repository and updating the files on Github momentarily
 1. Open Jupyter Notebook from anaconda prompt, or navigator whichever you prefer. ENSURE TO navigate to the cloned repository of interest:
 2. Work on the Files - open existing or create new etc
 3. Save Changes to GitHub
