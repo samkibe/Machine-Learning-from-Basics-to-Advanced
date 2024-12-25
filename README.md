@@ -9,6 +9,7 @@
 1. Download and Installl git on your machine : https://git-scm.com/downloads
 2. Setup Git Locally -
   >> git config --global user.name "Samuel Kibe"
+>  > 
   >> git config --global user.email "email@example.com"
 3. Clone your repository to your local machine
   >>  git clone https://github.com/username/repository.git, to your path/folder i.e git clone https://github.com/username/repository.git my_folder
@@ -32,7 +33,9 @@
 3. Save Changes to GitHub
 4. Commit and Push Changes to Github
   >> git add .
+>  > 
   >> git commit -m "Updated/added notebook files"
+>  > 
   >> git push origin main
 5. Successful - Verify on GitHub
 
