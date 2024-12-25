@@ -1,1 +1,1 @@
-# Machine-Learning-from-Bsic-to-Advanced
+# Machine-Learning-from-Basic-to-Advanced
