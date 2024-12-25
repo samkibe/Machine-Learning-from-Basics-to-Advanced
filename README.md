@@ -5,7 +5,7 @@
 2. Setup Git Locally -
   >> git config --global user.name "Samuel Kibe"
   >> git config --global user.email "email@example.com"
-3. Clone your repositoru to your local machine
+3. Clone your repository to your local machine
   >>  git clone https://github.com/username/repository.git, to your path/folder i.e git clone https://github.com/username/repository.git my_folder
 4.  Now Manually Copy Your Files into the Repository on your machine.
 5.  Stage the Files for Git - This stages all the files you copied into the repository folder.
