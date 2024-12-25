@@ -1,9 +1,11 @@
 # Machine-Learning-from-Basic-to-Advanced
 ### BUT fIRST ~ setup your Machine Learning workspace/environment like a pro
 ## Steps to work with git repos, github + jupyter notebook: create or add new files, edit files; commit, AND then push to Github
-# Tools 
+## Tools 
   >> Command prompt (cmd) to run git commands
+>  > 
   >> Github
+>  > 
   >> Jupyter notebook .. install anaconda navigator 
 
 1. Download and Installl git on your machine : https://git-scm.com/downloads
