@@ -15,6 +15,7 @@
 4.  Now Manually Copy Your Files into the Repository on your machine.
 5.  Stage the Files for Git - This stages all the files you copied into the repository folder.
   >> git add file1.ipynb
+>  > 
   >> git add file2.ipynb
 6. Commit the Changes
   >> git commit -m "Added initial files to the repository"
