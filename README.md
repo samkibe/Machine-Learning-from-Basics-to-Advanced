@@ -15,6 +15,7 @@
   >> git commit -m "Added initial files to the repository"
 7. Push the Changes to GitHub - change main to your preferred branch
   >> git push origin main
+
 ![image](https://github.com/user-attachments/assets/d9b377d6-434b-4004-a828-21814307dd58)
 
 8. Successful - Verify on GitHub
