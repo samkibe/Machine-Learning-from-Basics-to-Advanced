@@ -1,6 +1,6 @@
 # Machine-Learning-from-Basic-to-Advanced
 ### BUT fIRST ~ setup your Machine Learning workspace/environment like a pro
-## Steps to work with git, github + jupyter notebook: add files, edit files, commit, AND then push to Github
+## Steps to work with git repos, github + jupyter notebook: create or add new files, edit files; commit, AND then push to Github
 # Tools 
   >> Command prompt (cmd) to run git commands
   >> Github
