@@ -1,6 +1,11 @@
 # Machine-Learning-from-Basic-to-Advanced
 
 ## steps to work with git, github + jupyter notebook: add files, edit files, commit then push to Github
+# Tools 
+  >> Command prompt (cmd) to run git commands
+  >> Github
+  >> Jupyter notebook .. install anaconda navigator 
+
 1. Download and Installl git on your machine : https://git-scm.com/downloads
 2. Setup Git Locally -
   >> git config --global user.name "Samuel Kibe"
@@ -19,6 +24,16 @@
 ![image](https://github.com/user-attachments/assets/d9b377d6-434b-4004-a828-21814307dd58)
 
 8. Successful - Verify on GitHub
+   
+## Now working with the cloned repository and updating the files on Github momentary
+1. Open Jupyter Notebook from anaconda prompt, or navigator whichever you prefer. ENSURE TO navigate to the cloned repository of interest:
+2. Work on the Files - open existing or create new etc
+3. Save Changes to GitHub
+4. Commit and Push Changes to Github
+  >> git add .
+  >> git commit -m "Updated/added notebook files"
+  >> git push origin main
+5. Successful - Verify on GitHub
 
 
 
